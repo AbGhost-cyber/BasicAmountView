@@ -1,0 +1,2 @@
+rootProject.name = "BasicAmountView"
+include ':app'
